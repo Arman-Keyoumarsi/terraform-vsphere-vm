@@ -1,3 +1,5 @@
+Active Development of this module has been transferred to [Terraform-VMWare-Modules](https://github.com/Terraform-VMWare-Modules/terraform-vsphere-vm)
+
 # Terraform vSphere Module
 
 For Virtual Machine Provisioning with (Linux/Windows) customization.
